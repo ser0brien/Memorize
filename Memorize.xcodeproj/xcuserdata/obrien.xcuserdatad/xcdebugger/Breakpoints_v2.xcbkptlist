@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D52C5259-2F97-4252-8E3B-67B5CBD05270"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "48B8A9AE-D411-486D-9D3E-4515E78ADB30"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Memorize/GridLayout.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "16"
+            endingLineNumber = "16"
+            landmarkName = "init(itemCount:nearAspectRatio:in:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "48B8A9AE-D411-486D-9D3E-4515E78ADB30 - c19f2c07cff18570"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "default argument 1 of Memorize.GridLayout.init(itemCount: Swift.Int, nearAspectRatio: Swift.Double, in: __C.CGSize) -&gt; Memorize.GridLayout"
+                  moduleName = "Memorize"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/obrien/Desktop/Memorize/Memorize/GridLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "16"
+                  endingLineNumber = "16"
+                  offsetFromSymbolStart = "12">
+               </Location>
+               <Location
+                  uuid = "48B8A9AE-D411-486D-9D3E-4515E78ADB30 - 5e74f21c87fe5f45"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Memorize.GridLayout.init(itemCount: Swift.Int, nearAspectRatio: Swift.Double, in: __C.CGSize) -&gt; Memorize.GridLayout"
+                  moduleName = "Memorize"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/obrien/Desktop/Memorize/Memorize/GridLayout.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "365">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
