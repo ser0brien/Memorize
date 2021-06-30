@@ -11,7 +11,7 @@
 You need to turn over the cards one by one to find the same cards. When you **find two identical cards,** you get one point and these cards will disappear. The game ends when you **find all the pairs.**
 
 ## About the course
->https://cs193p.sites.stanford.edu/2020
+>[Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/2020)
 
 ### Lectures
 1. Course Logistics and Intro to SwiftUI
