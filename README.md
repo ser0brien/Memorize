@@ -21,7 +21,9 @@ You need to turn over the cards one by one to find the same cards. When you **fi
   <img src="/Screenshots/01.png" alt="" height="480"> &nbsp;&nbsp;<img src="/Screenshots/02.png" alt="" height="480"> &nbsp;&nbsp;<img src="/Screenshots/03.png" alt="" height="480"> &nbsp;&nbsp;<img src="/Screenshots/04.png" alt="" height="480">
 </p>
 
-## Sample code (MemoryGame)
+## Sample code
+>MemoryGame.swift
+
 ```swift
     struct Card: Identifiable {
         var isFaceUp: Bool = false {
