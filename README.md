@@ -1,7 +1,7 @@
 # Memorize Game :sparkles:
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
-### About
+### About the game
 You need to guess two identical cards. If the cards are correct, they disappear. For cards added animation with a timer.
 
 <p align="center">
