@@ -27,4 +27,4 @@ You need to turn over the cards one by one to find the same cards. When you **fi
 * Swift 5.3
 
 ## Install
-Just open project and run.
+Just open project and run :rocket:
