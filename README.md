@@ -12,6 +12,7 @@ You need to turn over the cards one by one to find the same cards. When you **fi
 
 ## About the course
 >[Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)](https://cs193p.sites.stanford.edu/2020)
+
 Stanford's CS193p course, Developing Applications for iOS, explains the fundamentals of how to build applications for iPhone and iPad using SwiftUI. 
 
 ### Lectures
