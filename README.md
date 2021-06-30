@@ -2,7 +2,7 @@
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
 ### About the game
-You need to guess two identical cards. If the cards are correct, they disappear. For cards added animation with a timer.
+You need to turn over the cards one by one to find the same cards. When you find two identical cards, you get one point and these cards will disappear. The game ends when you find all the pairs.
 
 <p align="center">
   <img src="/Screenshots/screencast.gif" alt="" width="700" align="middle">
