@@ -7,12 +7,15 @@
 You need to turn over the cards one by one to find the same cards. When you **find two identical cards,** you get one point and these cards will disappear. The game ends when you **find all the pairs.**
 
 <br>
-
 <p align="center">
   <img src="/Screenshots/screencast.gif" alt="" width="700" align="middle">
 </p>
-
 <br>
+
+### Technologies used
+* Swift
+* SwiftUI
+* MVVM
 
 ### Screenshots
 
