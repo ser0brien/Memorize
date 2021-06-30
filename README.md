@@ -1,4 +1,4 @@
-# Memorize Game :sparkles:
+# Memorize Game :video_game:
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
 <br>
