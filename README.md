@@ -2,8 +2,10 @@
 ###### Stanford University's course CS193p (Developing Applications for iOS using SwiftUI)
 
 <br>
+
 ### About the game
 You need to turn over the cards one by one to find the same cards. When you find two identical cards, you get one point and these cards will disappear. The game ends when you find all the pairs.
+
 <br>
 
 <p align="center">
