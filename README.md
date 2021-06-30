@@ -13,6 +13,22 @@ You need to turn over the cards one by one to find the same cards. When you **fi
 ## About the course
 >https://cs193p.sites.stanford.edu/2020
 
+### Lectures
+1. Course Logistics and Intro to SwiftUI
+2. MVVM and the Swift Type System
+3. Reactive UI Protocols Layout
+4. Grid enum Optionals
+5. ViewBuilder Shape ViewModifier
+6. Animation
+7. Multithreading EmojiArt
+8. Gestures JSON
+9. Data Flow
+10. Modal Presentation and Navigation
+11. Enroute Picker
+12. Core Data
+13. Persistence
+14. UIKit Integration
+
 ## Technology
 * Swift
 * SwiftUI
