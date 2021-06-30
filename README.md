@@ -4,6 +4,9 @@
 <br>
 <p align="center">
   <img src="/Screenshots/screencast.gif" alt="" width="700" align="middle">
+  <img src="/Screenshots/screencast2.gif" alt="" width="700" align="middle">
+  <img src="/Screenshots/screencast3.gif" alt="" width="700" align="middle">
+  <img src="/Screenshots/screencast4.gif" alt="" width="700" align="middle">
 </p>
 <br>
 
