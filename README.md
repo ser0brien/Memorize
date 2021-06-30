@@ -15,7 +15,7 @@ You need to turn over the cards one by one to find the same cards. When you **fi
 * SwiftUI
 * MVVM
 
-## Sample code
+## Sample code (MemoryGame)
 ```swift
     struct Card: Identifiable {
         var isFaceUp: Bool = false {
@@ -34,12 +34,6 @@ You need to turn over the cards one by one to find the same cards. When you **fi
         }
         var content: CardContent
         var id: Int
-        
-        // MARK: - Bonus Time
-        
-        // this could give matching bonus points
-        // if the user matches the card
-        // before a certain amount of time passes during which the card is face up
         
         // can be zero which means "no bonus available" for this card
         var bonusTimeLimit: TimeInterval = 10
