@@ -5,7 +5,9 @@
 You need to guess two identical cards. If the cards are correct, they disappear. For cards added animation with a timer.
 <br><br>
 
-<img src="/Screenshots/screencast.gif" alt="" width="600" align="middle">
+<p align="center">
+  <img src="/Screenshots/screencast.gif" alt="" width="600" align="middle">
+</p>
 
 <br><br>
 
