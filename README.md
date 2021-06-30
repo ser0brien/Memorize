@@ -17,7 +17,7 @@ You need to turn over the cards one by one to find the same cards. When you **fi
 
 ## Sample code
 ```swift
-struct Card: Identifiable {
+    struct Card: Identifiable {
         var isFaceUp: Bool = false {
             didSet {
                 if isFaceUp {
