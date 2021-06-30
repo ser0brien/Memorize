@@ -22,3 +22,11 @@ You need to turn over the cards one by one to find the same cards. When you **fi
 <p align="center">
   <img src="/Screenshots/screenshot_01.png" alt="" height="400"> <img src="/Screenshots/screenshot_02.png" alt="" height="400"> <img src="/Screenshots/screenshot_03.png" alt="" height="400"> <img src="/Screenshots/screenshot_04.png" alt="" height="400">
 </p>
+
+### Requirements
+* iOS 14.2
+* Xcode 12.0
+* Swift 5.3
+
+### Install
+Just open project and run.
