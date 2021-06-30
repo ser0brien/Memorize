@@ -39,7 +39,7 @@ Stanford's CS193p course, Developing Applications for iOS, explains the fundamen
 ## Screenshots
 
 <p align="center">
-  <img src="/Screenshots/screenshot_01.png" alt="" height="400"> <img src="/Screenshots/screenshot_02.png" alt="" height="400"> <img src="/Screenshots/screenshot_03.png" alt="" height="400"> <img src="/Screenshots/screenshot_04.png" alt="" height="400">
+  <img src="/Screenshots/01.png" alt="" height="400"> <img src="/Screenshots/02.png" alt="" height="400"> <img src="/Screenshots/03.png" alt="" height="400"> <img src="/Screenshots/04.png" alt="" height="400">
 </p>
 
 ## Sample code (MemoryGame)
